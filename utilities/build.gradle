@@ -1,0 +1,9 @@
+
+plugins {
+    id 'com.epam.melnikov.java-library-conventions'
+}
+
+dependencies {
+    implementation files('libs/lib.jar')
+    api project(':list')
+}

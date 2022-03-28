@@ -1,0 +1,4 @@
+
+plugins {
+    id 'com.epam.melnikov.java-library-conventions'
+}
